@@ -8,3 +8,5 @@ Yield
 #####Объявление итератора должно выпонять следующие требования 
  - возвращаемый тип данных должнен быть  IEnumerable, IEnumerable<T>, IEnumerator или IEnumerator<T>
  - Объявление не должно содержать параметры ref и out.
+
+Ссылка на [статью](http://msdn.microsoft.com/ru-ru/library/9k7k7cf0.aspx) из MSDN
