@@ -1,0 +1,6 @@
+c:\users\s.harchenko\documents\visual studio 2012\Projects\YieldExample\YieldExample\bin\Debug\YieldExample.exe.config
+c:\users\s.harchenko\documents\visual studio 2012\Projects\YieldExample\YieldExample\bin\Debug\YieldExample.exe
+c:\users\s.harchenko\documents\visual studio 2012\Projects\YieldExample\YieldExample\bin\Debug\YieldExample.pdb
+c:\users\s.harchenko\documents\visual studio 2012\Projects\YieldExample\YieldExample\obj\Debug\YieldExample.csprojResolveAssemblyReference.cache
+c:\users\s.harchenko\documents\visual studio 2012\Projects\YieldExample\YieldExample\obj\Debug\YieldExample.exe
+c:\users\s.harchenko\documents\visual studio 2012\Projects\YieldExample\YieldExample\obj\Debug\YieldExample.pdb
